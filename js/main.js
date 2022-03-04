@@ -13,4 +13,4 @@ function checkNumber(Numbers) {
   return newArr
 }
 
-console.log(checkNumber(numbers));
+console.log(checkNumber(numbers ) );
